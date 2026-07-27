@@ -1,0 +1,6 @@
+{
+  "name": "Teacher Assistant Suite",
+  "description": "Offline classroom tool for teachers featuring a customizable Wheel of Names, automatic Student Grouper, and persistent class roster management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
